@@ -21,7 +21,8 @@
 - 🔭 I’m currently working on Android Development 
 - 🌱 I’m currently learning React Native 
 - 💬 Ask me about HTML, CSS, JavaScript, MERN, PHP, Laravel.
-- 📫 How to reach me: **learnwithfair@gmail.com** Or [Facebook](https://www.facebook.com/mdrahatulrabbi/) or [Visit](https://dev-rahatul-rabbi.pantheonsite.io/#about-me)
+- 📫 How to reach me: **learnwithfair@gmail.com** Or [Facebook](https://www.facebook.com/mdrahatulrabbi/) or 
+- Portfolio: [Click Here](https://dev-rahatul-rabbi.pantheonsite.io/) 
 
 ## Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=learnwithfair&theme=github) <span align="right">&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=learnwithfair&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithfair" /> 
