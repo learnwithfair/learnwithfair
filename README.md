@@ -12,7 +12,7 @@
 |[![cover](web-development-cover.png)](https://www.youtube.com/@learnwithfair)|
 
 <p>
- I’m a passionate Web Designer & Developer with 4+ years of experience delivering high-quality solutions to international clients and agencies. I’ve customized and created over 100+ websites, ensuring satisfaction and long-term value for every client I work with.
+ I’m a passionate <b>Web Designer & Developer</b> with 5+ years of experience delivering high-quality solutions to international clients and agencies. I’ve customized and created over 100+ websites, ensuring satisfaction and long-term value for every client I work with.
 
 My technical expertise spans across a wide range of modern tools and technologies, including:
 
