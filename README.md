@@ -9,7 +9,7 @@
 |   | 
 |:---:|
 |<h2 align="center"> $$\color{red}{[Professional \space Full \space Stack \space Web \space Developer]}$$ </h2>|
-|[![cover](web-development-cover.png)](https://www.youtube.com/@learnwithfair)|
+|[![cover](banner-Rahatul%20Rabbi.png)](https://dev-rahatul-rabbi.pantheonsite.io/)|
 
 <p>
  I’m a passionate <b>Web Designer & Developer</b> with 5+ years of experience delivering high-quality solutions to international clients and agencies. I’ve customized and created over 100+ websites, ensuring satisfaction and long-term value for every client I work with.
